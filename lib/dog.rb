@@ -9,6 +9,6 @@ class Dog
 
   def ::create_table
 
-  need
+  end
 
 end
