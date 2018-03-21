@@ -7,8 +7,5 @@ class Dog
     @album = album
   end
 
-  def ::create_table
-
-  end
 
 end
